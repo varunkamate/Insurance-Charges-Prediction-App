@@ -38,3 +38,6 @@ streamlit run main.py
 🔹 Use Case
 
 This project is a great example of how to take a dataset, train a predictive model, and deploy it with an easy-to-use interface. Perfect for learning end-to-end machine learning workflows.
+
+
+<img width="1905" height="736" alt="Screenshot 2025-09-05 111903" src="https://github.com/user-attachments/assets/2b18d83a-f0ed-403c-8c54-651e77886ffc" />
