@@ -41,3 +41,5 @@ This project is a great example of how to take a dataset, train a predictive mod
 
 
 <img width="1905" height="736" alt="Screenshot 2025-09-05 111903" src="https://github.com/user-attachments/assets/2b18d83a-f0ed-403c-8c54-651e77886ffc" />
+===================================================================================================================
+<img width="1000" height="586" alt="Screenshot 2025-09-05 111917" src="https://github.com/user-attachments/assets/280375a0-8f89-4e00-8099-2df1205c07aa" />
